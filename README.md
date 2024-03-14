@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Kaushik</h1>
-<h3 align="center">Passionate Software Engineer | Problem Solver | Mobile App Enthusiast| Geopolitics Enthusiast</h3>
+<h3 align="center">Passionate Software Engineer | Problem Solver | Mobile App Enthusiast</h3>
 
 - 🌱 I’m currently learning **Android Development in Jetpack Compose**
 
