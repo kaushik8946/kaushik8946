@@ -32,13 +32,13 @@ November 2023 | Android Application Developer Intern
 
 
 Designed and developed three Android apps using Kotlin Jetpack Compose:
-1. QR Code Scanner & Generator: Created a user-friendly app that lets users
+1. **QR Code Scanner & Generator:** Created a user-friendly app that lets users
 seamlessly scan and generate QR codes, enhancing overall functionality and
 convenience.
-2. Feature-Rich Shopping App: Developed a shopping app brimming with
+2. **Feature-Rich Shopping App:** Developed a shopping app brimming with
 advanced features like item filtering and one-click checkout, streamlining the
 user experience and encouraging purchasing.
-3. MCQ Quiz App: Built an engaging quiz app offering diverse topics and real-time
+3. **MCQ Quiz App:** Built an engaging quiz app offering diverse topics and real-time
 feedback, attracting a significant user base eagerto challenge their knowledge.
 
 
