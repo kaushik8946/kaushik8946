@@ -40,3 +40,14 @@ advanced features like item filtering and one-click checkout, streamlining the
 user experience and encouraging purchasing.
 3. MCQ Quiz App: Built an engaging quiz app offering diverse topics and real-time
 feedback, attracting a significant user base eagerto challenge their knowledge.
+
+
+# Projects
+
+## Shopping App
+- Secure Google account authentication
+- Real-time cart management with Firebase-powered database
+- Order tracking with Firebase-powered database
+- Account information display, fetched from Google Account
+- **Tech stack:** Kotlin, Jetpack Compose, Firebase
+- **Source Code:** [Repo Link](https://github.com/kaushik8946/Shopping-App)
