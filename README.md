@@ -25,3 +25,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 
+# Experience
+
+## Eviox Technology Private Limited
+November 2023 | Android Application Developer Intern
+
+
+Designed and developed three Android apps using Kotlin Jetpack Compose:
+1. QR Code Scanner & Generator: Created a user-friendly app that lets users
+seamlessly scan and generate QR codes, enhancing overall functionality and
+convenience.
+2. Feature-Rich Shopping App: Developed a shopping app brimming with
+advanced features like item filtering and one-click checkout, streamlining the
+user experience and encouraging purchasing.
+3. MCQ Quiz App: Built an engaging quiz app offering diverse topics and real-time
+feedback, attracting a significant user base eagerto challenge their knowledge.
