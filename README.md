@@ -51,6 +51,11 @@ feedback, attracting a significant user base eagerto challenge their knowledge.
 - Account information display, fetched from Google Account
 - **Tech stack:** Kotlin, Jetpack Compose, Firebase
 - **Source Code:** [Repo Link](https://github.com/kaushik8946/Shopping-App)
+  
+
+https://github.com/user-attachments/assets/2c4a892c-8d98-4958-9cab-195d4e4e0c88
+
+
 
 
 ## Wallpaper App
@@ -64,6 +69,10 @@ lock screen wallpaper.
 - **Tech stack:** Kotlin, Jetpack Compose, Rest API-OkHttp
 - **Source Code:** [Repo Link](https://github.com/kaushik8946/Wallpaper-App)
 
+
+https://github.com/user-attachments/assets/bb0fe6d3-247d-432d-b9d5-5efb1e896fa4
+
+
 ## Weather App
 - **Seamless City Input:** Effortlessly find weatherinformation for any
 location by city name.
@@ -75,3 +84,9 @@ with temperature, a concise description, and wind speed in km/h.
 accordingly by knowing the exact sunrise and sunset times.
 - **Tech stack:** Kotlin, Jetpack Compose, Rest API-OkHttp
 - **Source Code:** [Repo Link](https://github.com/kaushik8946/Weather-App)
+
+
+https://github.com/user-attachments/assets/b777d870-69d1-482f-96b9-4c86c1146184
+
+
+  
