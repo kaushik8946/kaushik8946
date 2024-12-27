@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **suryakaushik2003@gmail.com**
 
-- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1DW6cxsXWQbTftFzwRncnVLNBNSyodxaL/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1Tk_UNEyK4w5bAYM-g8XLaZZN7f6gCo0z/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,18 +43,14 @@ feedback, attracting a significant user base eagerto challenge their knowledge.
 
 
 # Projects
+## KAVACH | Emergency Safety App
 
-## Shopping App
-- Secure Google account authentication
-- Real-time cart management with Firebase-powered database
-- Order tracking with Firebase-powered database
-- Account information display, fetched from Google Account
-- **Tech stack:** Kotlin, Jetpack Compose, Firebase
-- **Source Code:** [Repo Link](https://github.com/kaushik8946/Shopping-App)
-  
-
-https://github.com/user-attachments/assets/2c4a892c-8d98-4958-9cab-195d4e4e0c88
-
+- Developed an **Android application** to enhance personal safety, providing a quick and effective way to send emergency alerts.
+- Implemented an **Emergency Contact Setup** feature, allowing users to add and manage a list of trusted emergency contacts.
+- Integrated an **Emergency Trigger** functionality that can be activated via a prominent button and voice detection.
+- Automated **Location-Based SMS**, retrieving the user’s location using **GPS** or network services and sending it to emergency contacts.
+- Focused on creating a **simple and user-friendly interface**, prioritizing ease of use in high-stress situations.
+- **Source Code:** [Repo Link](https://github.com/kaushik8946/Kavach)
 
 
 
@@ -88,5 +84,14 @@ accordingly by knowing the exact sunrise and sunset times.
 
 https://github.com/user-attachments/assets/b777d870-69d1-482f-96b9-4c86c1146184
 
+## Shopping App
+- Secure Google account authentication
+- Real-time cart management with Firebase-powered database
+- Order tracking with Firebase-powered database
+- Account information display, fetched from Google Account
+- **Tech stack:** Kotlin, Jetpack Compose, Firebase
+- **Source Code:** [Repo Link](https://github.com/kaushik8946/Shopping-App)
+  
 
+https://github.com/user-attachments/assets/2c4a892c-8d98-4958-9cab-195d4e4e0c88
   
