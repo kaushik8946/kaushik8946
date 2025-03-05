@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **suryakaushik2003@gmail.com**
 
-- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1Tk_UNEyK4w5bAYM-g8XLaZZN7f6gCo0z/view?usp=drivesdk)**
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1Fft0l8HAu3P1YeN4XZ3Yk3oY6vXT-UeL/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,21 +28,27 @@
 # Experience
 
 ## Eviox Technology Private Limited
-November 2023 | Android Application Developer Intern
+November - Devember 2023 | Android Application Developer Intern
 
+- Developed and launched a **QR Code Scanner & Generator** app, enabling seamless scanning and generation of QR codes, enhancing user convenience.
+- Designed a **Feature-Rich Shopping App** with advanced functionalities such as item filtering and one-click checkout, optimizing user experience.
+- Created an engaging **MCQ Quiz App**, featuring diverse topics and real-time feedback, attracting a large user base.
+- Collaborated in Agile teams to deliver high-quality features under tight deadlines.
 
-Designed and developed three Android apps using Kotlin Jetpack Compose:
-1. **QR Code Scanner & Generator:** Created a user-friendly app that lets users
-seamlessly scan and generate QR codes, enhancing overall functionality and
-convenience.
-2. **Feature-Rich Shopping App:** Developed a shopping app brimming with
-advanced features like item filtering and one-click checkout, streamlining the
-user experience and encouraging purchasing.
-3. **MCQ Quiz App:** Built an engaging quiz app offering diverse topics and real-time
-feedback, attracting a significant user base eagerto challenge their knowledge.
 
 
 # Projects
+## **Secure VPC Setup with EC2 Instances** | AWS Cloud Project  
+**Demo** - [https://youtu.be/TXZUPJqALuM](https://youtu.be/TXZUPJqALuM)
+
+- Designed and configured a **Virtual Private Cloud (VPC)** with custom IP ranges, public and private subnets, and route tables.
+- Implemented network security using **Network ACLs** and **security groups** to regulate inbound and outbound traffic.
+- Provisioned **EC2 instances** in public and private subnets and assigned **IAM roles** with appropriate permissions.
+- Deployed an **Application Load Balancer (ALB)** to distribute traffic across multiple EC2 instances for high availability and scalability.
+- Generated and managed **SSH key pairs**, enforcing secure access controls for EC2 instances.
+- Tested and validated network connectivity, **security group rules**, and **ACL configurations** by securely connecting to instances via SSH.
+- **Tech stack**: AWS (EC2, VPC, IAM, Security Groups, NAT Gateway, Load Balancer), Networking, Linux, SSH
+
 ## KAVACH | Emergency Safety App
 
 - Developed an **Android application** to enhance personal safety, providing a quick and effective way to send emergency alerts.
