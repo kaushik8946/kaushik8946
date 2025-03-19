@@ -50,7 +50,7 @@ November - Devember 2023 | Android Application Developer Intern
 - **Tech stack**: AWS (EC2, VPC, IAM, Security Groups, NAT Gateway, Load Balancer), Networking, Linux, SSH
 
 ## KAVACH | Emergency Safety App
-
+**Demo** - [Click Here](https://github.com/kaushik8946/Kavach?tab=readme-ov-file#screenshots)
 - Developed an **Android application** to enhance personal safety, providing a quick and effective way to send emergency alerts.
 - Implemented an **Emergency Contact Setup** feature, allowing users to add and manage a list of trusted emergency contacts.
 - Integrated an **Emergency Trigger** functionality that can be activated via a prominent button and voice detection.
