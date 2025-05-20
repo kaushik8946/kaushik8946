@@ -36,7 +36,7 @@ November - Devember 2023 | Android Application Developer Intern
 
 # Projects
 ## **Secure VPC Setup with EC2 Instances** | AWS Cloud Project  
-**Demo** - [https://youtu.be/TXZUPJqALuM](https://youtu.be/TXZUPJqALuM)
+**Demo** - [youtu.be/TXZUPJqALuM](https://youtu.be/TXZUPJqALuM)
 
 - Designed a **highly available** and **secure** cloud environment, reducing unauthorized access risk by 40% and achieving 99.9% network availability across 4 availability zones.
 - Enhanced security by blocking 95% of unauthorized access attempts using **Network ACLs** and **Security Groups**.
@@ -55,7 +55,6 @@ November - Devember 2023 | Android Application Developer Intern
 - **Source Code**: [github.com/kaushik8946/Kavach](https://github.com/kaushik8946/Kavach)
 
 
-
 ## Wallpaper App
 - **Searchable:** Users can input keywords or phrases to find relevant
 images.
@@ -65,7 +64,7 @@ search.
 with any image - simply tap Yes to set it as your home screen and
 lock screen wallpaper.
 - **Tech stack:** Kotlin, Jetpack Compose, Rest API-OkHttp
-- **Source Code:** [Repo Link](https://github.com/kaushik8946/Wallpaper-App)
+- **Source Code:** [github.com/kaushik8946/Wallpaper-App](https://github.com/kaushik8946/Wallpaper-App)
 
 
 https://github.com/user-attachments/assets/bb0fe6d3-247d-432d-b9d5-5efb1e896fa4
@@ -88,7 +87,7 @@ https://github.com/user-attachments/assets/b777d870-69d1-482f-96b9-4c86c1146184
 - Order tracking with Firebase-powered database
 - Account information display, fetched from Google Account
 - **Tech stack:** Kotlin, Jetpack Compose, Firebase
-- **Source Code:** [Repo Link](https://github.com/kaushik8946/Shopping-App)
+- **Source Code:** [github.com/kaushik8946/Shopping-App](https://github.com/kaushik8946/Shopping-App)
   
 
 https://github.com/user-attachments/assets/2c4a892c-8d98-4958-9cab-195d4e4e0c88
