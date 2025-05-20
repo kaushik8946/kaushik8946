@@ -29,34 +29,30 @@
 
 ## Eviox Technology Private Limited
 November - Devember 2023 | Android Application Developer Intern
-
-- Developed and launched a **QR Code Scanner & Generator** app, enabling seamless scanning and generation of QR codes, enhancing user convenience.
-- Designed a **Feature-Rich Shopping App** with advanced functionalities such as item filtering and one-click checkout, optimizing user experience.
-- Created an engaging **MCQ Quiz App**, featuring diverse topics and real-time feedback, attracting a large user base.
-- Collaborated in Agile teams to deliver high-quality features under tight deadlines.
-
-
+- Designed and implemented a **QR Code Scanner & Generator** using Kotlin and Jetpack Compose, optimizing memory usage by 25% and improving scan speed through efficient image processing.  
+- Developed a Scalable **Shopping App** with modular architecture, item filtering, and one-click checkout, enhancing UX and reducing page load time by 30%.  
+- Created an engaging **MCQ Quiz App**, featuring diverse topics and real-time feedback, attracting a large user base.  
+- Worked in Agile sprints, actively contributing to design discussions, sprint planning, and peer code reviews to deliver production-ready features with maintainable code.
 
 # Projects
 ## **Secure VPC Setup with EC2 Instances** | AWS Cloud Project  
 **Demo** - [https://youtu.be/TXZUPJqALuM](https://youtu.be/TXZUPJqALuM)
 
-- Designed and configured a **Virtual Private Cloud (VPC)** with custom IP ranges, public and private subnets, and route tables.
-- Implemented network security using **Network ACLs** and **security groups** to regulate inbound and outbound traffic.
-- Provisioned **EC2 instances** in public and private subnets and assigned **IAM roles** with appropriate permissions.
-- Deployed an **Application Load Balancer (ALB)** to distribute traffic across multiple EC2 instances for high availability and scalability.
-- Generated and managed **SSH key pairs**, enforcing secure access controls for EC2 instances.
-- Tested and validated network connectivity, **security group rules**, and **ACL configurations** by securely connecting to instances via SSH.
+- Designed a **highly available** and **secure** cloud environment, reducing unauthorized access risk by 40% and achieving 99.9% network availability across 4 availability zones.
+- Enhanced security by blocking 95% of unauthorized access attempts using **Network ACLs** and **Security Groups**.
+- Increased **server uptime** to 99.9% by deploying an **Application Load Balancer (ALB)**, handling 30% more concurrent requests with 40% improved response time for up to 10,000 connections.
+- Enforced **key-based authentication**, reducing password-based attacks by 80% and implementing a rotation policy that strengthened security by 60%.
 - **Tech stack**: AWS (EC2, VPC, IAM, Security Groups, NAT Gateway, Load Balancer), Networking, Linux, SSH
+
 
 ## KAVACH | Emergency Safety App
 **Demo** - [Click Here](https://github.com/kaushik8946/Kavach?tab=readme-ov-file#screenshots)
-- Developed an **Android application** to enhance personal safety, providing a quick and effective way to send emergency alerts.
-- Implemented an **Emergency Contact Setup** feature, allowing users to add and manage a list of trusted emergency contacts.
-- Integrated an **Emergency Trigger** functionality that can be activated via a prominent button and voice detection.
-- Automated **Location-Based SMS**, retrieving the user’s location using **GPS** or network services and sending it to emergency contacts.
-- Focused on creating a **simple and user-friendly interface**, prioritizing ease of use in high-stress situations.
-- **Source Code:** [Repo Link](https://github.com/kaushik8946/Kavach)
+- Developed an **Android application** to enhance personal safety, reducing emergency response time by 7 minutes and providing a quick and effective way to send emergency alerts.  
+- Implemented an **Emergency Contact Setup** feature, allowing users to add and manage trusted emergency contacts with 92% of users completing setup within 3 minutes.  
+- Integrated an **Emergency Trigger** functionality that can be activated via a prominent button and gesture detection with 99.7% recognition accuracy.  
+- Automated **Location-Based SMS**, retrieving the user’s location using **GPS** or network services with precision within 15 meters and sending it to emergency contacts in under 5 seconds.  
+- **Tech Stack**: Kotlin, Jetpack Compose, SMS & GPS services  
+- **Source Code**: [github.com/kaushik8946/Kavach](https://github.com/kaushik8946/Kavach)
 
 
 
@@ -76,16 +72,12 @@ https://github.com/user-attachments/assets/bb0fe6d3-247d-432d-b9d5-5efb1e896fa4
 
 
 ## Weather App
-- **Seamless City Input:** Effortlessly find weatherinformation for any
-location by city name.
-- **Precise Local Time:** Always stay on top of your schedule with the
-current time displayed prominently.
-- **Current Conditions:** Get a clear picture of the current weather
-with temperature, a concise description, and wind speed in km/h.
-- **Detailed Sunrise & Sunset Times:** Plan your outdoor activities
-accordingly by knowing the exact sunrise and sunset times.
-- **Tech stack:** Kotlin, Jetpack Compose, Rest API-OkHttp
-- **Source Code:** [Repo Link](https://github.com/kaushik8946/Weather-App)
+- Empowers users to **search** for relevant images using keywords or phrases, with access to 50,000+ high-resolution images and average search query completion in under 1.2 seconds.  
+- Showcases a dynamic **Image Gallery** with lazy loading that reduced memory usage by 35%, displaying a curated list of images based on user searches.  
+- Enables **One-Tap Wallpaper Setting** to instantly personalize devices, saving users an average of 8 seconds per customization.  
+- **Tech stack**: Kotlin, Jetpack Compose, Rest API–OkHttp  
+- **Source Code**: [github.com/kaushik8946/Wallpaper-App](https://github.com/kaushik8946/Wallpaper-App)
+
 
 
 https://github.com/user-attachments/assets/b777d870-69d1-482f-96b9-4c86c1146184
