@@ -3,7 +3,7 @@
 
 - 📫 Reach me **suryakaushik2003@gmail.com**
 
-- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1Fft0l8HAu3P1YeN4XZ3Yk3oY6vXT-UeL/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/13ijJOY8b5rykim1RFaNQg0TRd4pvPYGs/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
